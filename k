@@ -1,5 +1,5 @@
 [
   "kapal karam",
   "sucipto",
-  "kecoa laut",
+  "kecoa laut"
 ]
